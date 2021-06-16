@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   turing:
   - apiVersion: v1
-    created: "2021-06-08T05:58:09.094103877Z"
+    created: "2021-06-16T05:57:21.686081526Z"
     description: 'Turing: ML Experimentation System'
-    digest: 82bb523e7e87e8183d6eff16c7d452319396f02feedb21b32cc0343b0dab6695
+    digest: 81b0d48b04965cb44abed2d9a9b1930cf18e7734df715731c3246d89acf1cac0
     name: turing
     urls:
-    - https://github.com/ashwinath/turing/releases/download/turing-chart-0.1.0/turing-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-06-08T05:58:08.929042965Z"
+    - https://github.com/ashwinath/turing/releases/download/turing-chart-0.1.1/turing-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-06-16T05:57:21.550046282Z"
